@@ -1,0 +1,10 @@
+C:\Users\aile\Desktop\okul\file_organization\fileOrgHW01\bin\Debug\fileOrgHW01.exe.config
+C:\Users\aile\Desktop\okul\file_organization\fileOrgHW01\bin\Debug\fileOrgHW01.exe
+C:\Users\aile\Desktop\okul\file_organization\fileOrgHW01\bin\Debug\fileOrgHW01.pdb
+C:\Users\aile\Desktop\okul\file_organization\fileOrgHW01\obj\Debug\fileOrgHW01.csprojAssemblyReference.cache
+C:\Users\aile\Desktop\okul\file_organization\fileOrgHW01\obj\Debug\fileOrgHW01.Form1.resources
+C:\Users\aile\Desktop\okul\file_organization\fileOrgHW01\obj\Debug\fileOrgHW01.Properties.Resources.resources
+C:\Users\aile\Desktop\okul\file_organization\fileOrgHW01\obj\Debug\fileOrgHW01.csproj.GenerateResource.cache
+C:\Users\aile\Desktop\okul\file_organization\fileOrgHW01\obj\Debug\fileOrgHW01.csproj.CoreCompileInputs.cache
+C:\Users\aile\Desktop\okul\file_organization\fileOrgHW01\obj\Debug\fileOrgHW01.exe
+C:\Users\aile\Desktop\okul\file_organization\fileOrgHW01\obj\Debug\fileOrgHW01.pdb
